@@ -1,0 +1,10 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/emportal?user=root
+
+
+spring.datasource.username=root
+spring.datasource.password=sandeep123
+
+spring.jpa.properties.hibernate.dialect = org.hiebernate.dialect.MySQL5InnoDBDialect
+
+spring.jpa.hibernate.ddl-auto = update
+

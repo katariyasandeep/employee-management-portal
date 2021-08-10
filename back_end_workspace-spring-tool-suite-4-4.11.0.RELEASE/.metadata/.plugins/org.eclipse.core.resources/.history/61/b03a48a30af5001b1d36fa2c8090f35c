@@ -1,0 +1,5 @@
+package com.emportal.springboot.exception;
+
+public class ResourceNotFoundException {
+
+}
